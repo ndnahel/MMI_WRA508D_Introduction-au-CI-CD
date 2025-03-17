@@ -32,3 +32,7 @@
 ###> phpstan/phpstan ###
 phpstan.neon
 ###< phpstan/phpstan ###
+
+.secrets
+/.idea
+*.DS_Store
